@@ -1,0 +1,14 @@
+{
+  "name": "godzilla-uptrend-server",
+  "version": "1.0.0",
+  "description": "EL ROI Uptrend Bot — Full Web App",
+  "main": "server_uptrend.js",
+  "scripts": {
+    "start": "node server_uptrend.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "node-fetch": "^2.7.0",
+    "express": "^4.18.2"
+  }
+}
